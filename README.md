@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FrozenMangoTree
+- 👋 Hi, I’m @Frozen Mango
 - 👀 I’m interested in helping people learn about Game Development!
 - 🌱 I’m currently learning Unity.
 - 💞️ I’m looking to collaborate on anything Unity Related.
